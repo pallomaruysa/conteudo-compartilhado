@@ -3,9 +3,8 @@
 * Curso de Programação com App Inventor;
 * Curso GPAI;
 * Curso eMAG;
-</br>
 
-Bom, eu fiz esses resumos de um curso que realizei na recode. Se eu achar o link compartilho com vocês no doc Word que vou colocar aqui na pasta.
+Bom, eu fiz esses resumos de algusn cursos que realizei. Achando o link compartilho com vocês no ReadMe do repositório.
 
 Por favorzin, não repararem nos erros ortográficos, nem gramaticais e bons estudos!! 
 
