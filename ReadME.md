@@ -9,7 +9,12 @@ Minha ideia em trazer esta lista é compartilhar com vocês o que tenho guardado
 ---
 
 ### **_Origem da ideia_**
-A princípio era para ser disponibilizado apenas aos meus colegas do curso, em um arquivo docx. Só que aí pensei... Isso pode ser mais do que uma lista particular minha. <br>   E se eu tornasse-a comunitária? Onde a galera pudesse colaborar e colocar suas recomendações de outros cursinhos maneiros ou materiais didáticos e os reunir aqui, em um único lugar!! E o melhor de tudo, ***0800***!!
+A princípio era para ser disponibilizado apenas aos meus colegas do curso, em um arquivo docx. Só que aí pensei... Isso pode ser mais do que uma lista particular minha. <br>   E se eu tornasse-a comun
+itária? Onde a galera pudesse colaborar e colocar suas recomendações de outros cursinhos maneiros ou materiais didáticos e os reunir aqui, em um único lugar!! E o melhor de tudo, ***0800***!!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/UU14W1RigxKr9YYt3F/giphy.gif" width="250" title="icon idea">
+</p>
 
 ---
 
