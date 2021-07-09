@@ -9,7 +9,7 @@ Minha ideia em trazer esta lista é compartilhar com vocês o que tenho guardado
 ---
 
 ### **_Origem da ideia_**
-A princípio era para ser disponibilizado apenas à meus colegas do curso, em um arquivo docx. Só que aí pensei... Isso pode ser mais do que uma lista particular minha. <br>   E se eu a torná-se comunutária? Onde a galera pudesse colaborar e colocar suas recomendações de outros cursinhos maneiros ou materiais didáticos e os reunir aqui, em um único lugar!! E o melhor de tudo, ***0800***!!
+A princípio era para ser disponibilizado apenas aos meus colegas do curso, em um arquivo docx. Só que aí pensei... Isso pode ser mais do que uma lista particular minha. <br>   E se eu tornasse-a comunitária? Onde a galera pudesse colaborar e colocar suas recomendações de outros cursinhos maneiros ou materiais didáticos e os reunir aqui, em um único lugar!! E o melhor de tudo, ***0800***!!
 
 ---
 
@@ -20,7 +20,7 @@ Como são arquivos diversos, de resumos à e-books, que podemos colocar aqui, cr
 
 ## Lista com os cursos: 
 <details>
-  <summary>⚡ <em>DIO (Digital Inovation One)</em>⚡</summary>
+  <summary>⚡ <em>DIO (Digital Innovation One)</em>⚡</summary>
   
   * [Git e GitHub](https://web.digitalinnovation.one/browse?filter=Git);
   * [Lógica de Programação](https://web.digitalinnovation.one/course/logica-de-programacao-essencial/learning/aea1ea26-fd56-417d-8272-6e15253f4405/?back=/browse);
@@ -51,10 +51,12 @@ Como são arquivos diversos, de resumos à e-books, que podemos colocar aqui, cr
      
   * [Curso de Pacote Office Online](https://www.primecursos.com.br/pacote-office);
 
-  > A Prime Cursos oferece vários [Cursos](https://www.primecursos.com.br), relacionados a muitas áreas, pelo os que eu vi, você só pagaria pelo certificado, mas como o que vale é o conhcimento, está aqui na listinha também.
+  > A Prime Cursos oferece vários [Cursos](https://www.primecursos.com.br), relacionados a muitas áreas, pelo os que eu vi, você só pagaria pelo certificado, mas como o que vale é o conhecimento, está aqui na listinha também.
   
 </details>
 
 <p>Aqui chegamos ao fim da minha listinha. Relembrando que vocês podem complementá-la, é um espaço de divulgação aberta, toda ideia é bem-vinda.</p>
 
-##### Obs.: Eu presei em colocar aqui apenas os cursos que realizei e sei que são bons, peço gentilmente que indiquem conteúdos positivos e que vão agregar aos outros!
+##### Obs.: Eu prezei em colocar aqui apenas os cursos que realizei e sei que são bons, peço gentilmente que indiquem conteúdos positivos e que vão agregar aos outros!
+
+
